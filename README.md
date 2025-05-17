@@ -2,6 +2,9 @@
 
 A 64-bit Linux assembly program written in NASM that converts text to Morse code and Morse code to text. This program supports uppercase letters (A-Z), numbers (0-9), common punctuation (.,?!), and spaces between words.
 
+# Watch The Video To See It In Action
+[![Watch the video](https://img.youtube.com/vi/35tTnm1u-oc/0.jpg)](https://www.youtube.com/watch?v=35tTnm1u-oc)
+
 ## Features
 
 - **Text to Morse Conversion**: Converts plain text (letters, numbers, punctuation) to Morse code, using '/' to represent spaces between words.
