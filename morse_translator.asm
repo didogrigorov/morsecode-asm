@@ -1,6 +1,7 @@
 ; Morse Code Encoder/Decoder in NASM Assembly
 ; Modern 64-bit Linux version
 ; Modified to properly handle spaces between words
+; Coded by Dilyan Grigorov
 
 section .data
     ; Welcome and menu messages
